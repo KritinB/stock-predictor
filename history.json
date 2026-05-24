@@ -1,0 +1,479 @@
+{
+  "runs": [
+    {
+      "run_id": "b4d3ab0c",
+      "date": "2026-05-25",
+      "time": "00:17:16",
+      "tickers": {
+        "AAPL": {
+          "price": 308.82000732421875,
+          "prediction": "DOWN",
+          "confidence": 0.9733922481536865,
+          "cv_accuracy": 0.4083333333333333,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TSLA": {
+          "price": 426.010009765625,
+          "prediction": "DOWN",
+          "confidence": 0.9711117744445801,
+          "cv_accuracy": 0.425,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "NVDA": {
+          "price": 215.3300018310547,
+          "prediction": "DOWN",
+          "confidence": 0.980694055557251,
+          "cv_accuracy": 0.48333333333333334,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^GSPC": {
+          "price": 7473.47021484375,
+          "prediction": "DOWN",
+          "confidence": 0.9688069224357605,
+          "cv_accuracy": 0.49166666666666664,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "RELIANCE.NS": {
+          "price": 1354.5,
+          "prediction": "DOWN",
+          "confidence": 0.969294548034668,
+          "cv_accuracy": 0.5272727272727272,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TCS.NS": {
+          "price": 2286.300048828125,
+          "prediction": "DOWN",
+          "confidence": 0.9453803896903992,
+          "cv_accuracy": 0.6,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "HDFCBANK.NS": {
+          "price": 766.7999877929688,
+          "prediction": "DOWN",
+          "confidence": 0.9373148679733276,
+          "cv_accuracy": 0.509090909090909,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^NSEI": {
+          "price": 23719.30078125,
+          "prediction": "DOWN",
+          "confidence": 0.988184928894043,
+          "cv_accuracy": 0.4727272727272727,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        }
+      }
+    },
+    {
+      "run_id": "dde2ac6f",
+      "date": "2026-05-25",
+      "time": "00:20:32",
+      "tickers": {
+        "AAPL": {
+          "price": 308.82000732421875,
+          "prediction": "DOWN",
+          "confidence": 0.9733922481536865,
+          "cv_accuracy": 0.4083333333333333,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TSLA": {
+          "price": 426.010009765625,
+          "prediction": "DOWN",
+          "confidence": 0.9711117744445801,
+          "cv_accuracy": 0.425,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "NVDA": {
+          "price": 215.3300018310547,
+          "prediction": "DOWN",
+          "confidence": 0.980694055557251,
+          "cv_accuracy": 0.48333333333333334,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^GSPC": {
+          "price": 7473.47021484375,
+          "prediction": "DOWN",
+          "confidence": 0.9688069224357605,
+          "cv_accuracy": 0.49166666666666664,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "RELIANCE.NS": {
+          "price": 1354.5,
+          "prediction": "DOWN",
+          "confidence": 0.969294548034668,
+          "cv_accuracy": 0.5272727272727272,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TCS.NS": {
+          "price": 2286.300048828125,
+          "prediction": "DOWN",
+          "confidence": 0.9489705562591553,
+          "cv_accuracy": 0.6,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "HDFCBANK.NS": {
+          "price": 766.7999877929688,
+          "prediction": "DOWN",
+          "confidence": 0.9373148679733276,
+          "cv_accuracy": 0.509090909090909,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^NSEI": {
+          "price": 23719.30078125,
+          "prediction": "DOWN",
+          "confidence": 0.988184928894043,
+          "cv_accuracy": 0.4727272727272727,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        }
+      }
+    },
+    {
+      "run_id": "6ba3f2c1",
+      "date": "2026-05-25",
+      "time": "00:20:41",
+      "tickers": {
+        "AAPL": {
+          "price": 308.82000732421875,
+          "prediction": "DOWN",
+          "confidence": 0.9733922481536865,
+          "cv_accuracy": 0.4083333333333333,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TSLA": {
+          "price": 426.010009765625,
+          "prediction": "DOWN",
+          "confidence": 0.9711117744445801,
+          "cv_accuracy": 0.425,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "NVDA": {
+          "price": 215.3300018310547,
+          "prediction": "DOWN",
+          "confidence": 0.980694055557251,
+          "cv_accuracy": 0.48333333333333334,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^GSPC": {
+          "price": 7473.47021484375,
+          "prediction": "DOWN",
+          "confidence": 0.9688069224357605,
+          "cv_accuracy": 0.49166666666666664,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "RELIANCE.NS": {
+          "price": 1354.5,
+          "prediction": "DOWN",
+          "confidence": 0.969294548034668,
+          "cv_accuracy": 0.5272727272727272,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TCS.NS": {
+          "price": 2286.300048828125,
+          "prediction": "DOWN",
+          "confidence": 0.9453803896903992,
+          "cv_accuracy": 0.6,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "HDFCBANK.NS": {
+          "price": 766.7999877929688,
+          "prediction": "DOWN",
+          "confidence": 0.9373148679733276,
+          "cv_accuracy": 0.509090909090909,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^NSEI": {
+          "price": 23719.30078125,
+          "prediction": "DOWN",
+          "confidence": 0.988184928894043,
+          "cv_accuracy": 0.4727272727272727,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        }
+      }
+    },
+    {
+      "run_id": "9b98dff7",
+      "date": "2026-05-25",
+      "time": "00:22:49",
+      "tickers": {
+        "AAPL": {
+          "price": 308.82000732421875,
+          "prediction": "DOWN",
+          "confidence": 0.9733922481536865,
+          "cv_accuracy": 0.4083333333333333,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TSLA": {
+          "price": 426.010009765625,
+          "prediction": "DOWN",
+          "confidence": 0.9711117744445801,
+          "cv_accuracy": 0.425,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "NVDA": {
+          "price": 215.3300018310547,
+          "prediction": "DOWN",
+          "confidence": 0.980694055557251,
+          "cv_accuracy": 0.48333333333333334,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^GSPC": {
+          "price": 7473.47021484375,
+          "prediction": "DOWN",
+          "confidence": 0.9688069224357605,
+          "cv_accuracy": 0.49166666666666664,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "RELIANCE.NS": {
+          "price": 1354.5,
+          "prediction": "DOWN",
+          "confidence": 0.969294548034668,
+          "cv_accuracy": 0.5272727272727272,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TCS.NS": {
+          "price": 2286.300048828125,
+          "prediction": "DOWN",
+          "confidence": 0.9429879188537598,
+          "cv_accuracy": 0.6,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "HDFCBANK.NS": {
+          "price": 766.7999877929688,
+          "prediction": "DOWN",
+          "confidence": 0.9373148679733276,
+          "cv_accuracy": 0.509090909090909,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^NSEI": {
+          "price": 23719.30078125,
+          "prediction": "DOWN",
+          "confidence": 0.988184928894043,
+          "cv_accuracy": 0.4727272727272727,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        }
+      }
+    },
+    {
+      "run_id": "b7fdd409",
+      "date": "2026-05-25",
+      "time": "00:25:28",
+      "tickers": {
+        "AAPL": {
+          "price": 308.82000732421875,
+          "prediction": "DOWN",
+          "confidence": 0.9733922481536865,
+          "cv_accuracy": 0.4083333333333333,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TSLA": {
+          "price": 426.010009765625,
+          "prediction": "DOWN",
+          "confidence": 0.9711117744445801,
+          "cv_accuracy": 0.425,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "NVDA": {
+          "price": 215.3300018310547,
+          "prediction": "DOWN",
+          "confidence": 0.980694055557251,
+          "cv_accuracy": 0.48333333333333334,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^GSPC": {
+          "price": 7473.47021484375,
+          "prediction": "DOWN",
+          "confidence": 0.9688069224357605,
+          "cv_accuracy": 0.49166666666666664,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "RELIANCE.NS": {
+          "price": 1354.5,
+          "prediction": "DOWN",
+          "confidence": 0.969294548034668,
+          "cv_accuracy": 0.5272727272727272,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TCS.NS": {
+          "price": 2286.300048828125,
+          "prediction": "DOWN",
+          "confidence": 0.9426854848861694,
+          "cv_accuracy": 0.6,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "HDFCBANK.NS": {
+          "price": 766.7999877929688,
+          "prediction": "DOWN",
+          "confidence": 0.9373148679733276,
+          "cv_accuracy": 0.509090909090909,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^NSEI": {
+          "price": 23719.30078125,
+          "prediction": "DOWN",
+          "confidence": 0.988184928894043,
+          "cv_accuracy": 0.4727272727272727,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        }
+      }
+    },
+    {
+      "run_id": "ae76d3e4",
+      "date": "2026-05-25",
+      "time": "00:26:35",
+      "tickers": {
+        "AAPL": {
+          "price": 308.82000732421875,
+          "prediction": "DOWN",
+          "confidence": 0.9733922481536865,
+          "cv_accuracy": 0.4083333333333333,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TSLA": {
+          "price": 426.010009765625,
+          "prediction": "DOWN",
+          "confidence": 0.9711117744445801,
+          "cv_accuracy": 0.425,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "NVDA": {
+          "price": 215.3300018310547,
+          "prediction": "DOWN",
+          "confidence": 0.980694055557251,
+          "cv_accuracy": 0.48333333333333334,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^GSPC": {
+          "price": 7473.47021484375,
+          "prediction": "DOWN",
+          "confidence": 0.9688069224357605,
+          "cv_accuracy": 0.49166666666666664,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "RELIANCE.NS": {
+          "price": 1354.5,
+          "prediction": "DOWN",
+          "confidence": 0.969294548034668,
+          "cv_accuracy": 0.5272727272727272,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "TCS.NS": {
+          "price": 2286.300048828125,
+          "prediction": "DOWN",
+          "confidence": 0.9455075860023499,
+          "cv_accuracy": 0.6,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "HDFCBANK.NS": {
+          "price": 766.7999877929688,
+          "prediction": "DOWN",
+          "confidence": 0.9373148679733276,
+          "cv_accuracy": 0.509090909090909,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        },
+        "^NSEI": {
+          "price": 23719.30078125,
+          "prediction": "DOWN",
+          "confidence": 0.988184928894043,
+          "cv_accuracy": 0.4727272727272727,
+          "verified": false,
+          "actual": null,
+          "correct": null
+        }
+      }
+    }
+  ],
+  "live_scores": {}
+}
