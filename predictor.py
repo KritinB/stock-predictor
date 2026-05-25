@@ -381,7 +381,7 @@ def run_ticker(raw, ticker, market_index, results, run_entry):
     df, close = add_features(raw, ticker, market_index)
     acc, fold_scores, cm, direction, confidence, features = train_and_predict(df, ticker)
 
-    last_price = float(close.iloc[-1])
+    last_price = float(close.dropna().iloc[-1])
     score = overall_score(acc, confidence)
     results[ticker] = {
         "name": name, "price": last_price,

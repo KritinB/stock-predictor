@@ -69,7 +69,7 @@ def get_current_prices(tickers):
     raw.columns = ["_".join(c).strip() if isinstance(c, tuple) else c for c in raw.columns]
     for t in clean:
         col = f"Close_{t}"
-        if col in raw.columns:
+        if col in raw.columns and raw[col].dropna().shape[0] > 0:
             prices[t] = float(raw[col].dropna().iloc[-1])
     return prices
 
